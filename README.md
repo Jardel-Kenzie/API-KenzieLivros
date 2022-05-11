@@ -81,7 +81,7 @@ Só é possível criar uma conta por email
 ### Retorno dos dados
 
 ```Json
-status: 2001
+status: 201
 {
 	"id": 2,
 	"name": "Jardel",
